@@ -1,0 +1,5 @@
+Embedding Model, MRR, recall@5, ndcg@5
+Gemini Embedding 2, 0.78, 0.68, 0.66
+BGE-M3, 0.74, 0.66, 0.63
+Qwen3-Embedding, 0.74, 0.64, 0.62
+Snowflake Arctic, 0.73, 0.65, 0.61

@@ -1,0 +1,12 @@
+streamlit
+pandas
+pinecone
+openai
+sentence-transformers
+google-genai
+tqdm
+python-dotenv
+torch
+huggingface-hub
+numpy
+anthropic
